@@ -12,7 +12,7 @@ Previously, I co-founded and managed a data-driven fashion platform that used co
 * Maintained a fully deployed real-time system on AWS delivering more than 10MM recommendations per month;
 * Mean target for the system latency : 0.5s;
 * Automatic integration and data ingestion into vectorized data units using a very cheap MongoDB server, employing cache strategies to reduce the server workload and keep costs down;
-* Low maintenance system: SLA of 99.8% of uptime with no system maintenance.
+* Low maintenance system: SLA of 99.8% of uptime with no system maintenance (only maintenance required when major version was deprecated by Amazon).
 
 > **Important business achievement**: reducing cloud services cost by more than 40% using smart coding strategies, simplifying microsservices and enabling structural caching where suitable so as to reduce or downscale hardware where appropriate.
 
