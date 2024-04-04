@@ -29,5 +29,7 @@ You can request access to some of my repositories using my contacts below
 ## Contact me:
 
 🌐 www.polineuron.com
+
 ✉️ hello@polineuron.com
+
 🔗 https://www.linkedin.com/in/borges-andre/
