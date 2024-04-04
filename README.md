@@ -3,11 +3,11 @@
 My name is Andre, I am a remote software developer and team lead specialized in deploying real-time applications using **AWS**, **MongoDB** as a database and **Python** 3.10 along with Django as a software stack.
 
 
-# History
+# Technical Background and major achievements
 
 Previously, I co-founded and managed a data-driven fashion platform that used computer vision and AI to provide personalized recommendations to users. I was responsible for creating and leading teams, data schemas, managing and maintaining large databases, and ensuring high performance and availability of the system. I also led a team of data scientists and engineers, and partnered with fashion brands and retailers. My work enabled the company to grow its user base, revenue, and partnerships.
 
-## Important KPIs
+## Relevant Business + Technical KPIs
 
 * Maintained a fully deployed real-time system on AWS delivering more than 10MM recommendations per month;
 * Mean target for the system latency : 0.5s;
@@ -26,7 +26,7 @@ Previously, I co-founded and managed a data-driven fashion platform that used co
 
 You can request access to some of my repositories using my contacts below
 
-## Contact me:
+## How to reach me
 
 🌐 www.polineuron.com
 
