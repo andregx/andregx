@@ -1,6 +1,6 @@
 # Hey, visitor!
 
-My name is Andre, I am a remote software developer and team lead specialized in deploying real-time applications using **AWS**, **MongoDB** as a database and **Python** 3.10 along with Django as a software stack.
+My name is Andre, I am an experienced Project Manager and remote software developer specialized in deploying real-time applications using **AWS**, **MongoDB** as a database and **Python** 3.10 along with Django as a software stack.
 
 
 # Technical background and major achievements
