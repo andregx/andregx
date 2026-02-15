@@ -22,11 +22,6 @@ Over the last 15 years, I have progressed from building foundational project man
 * **Reliability:** K6 (Performance Testing), Datadog (Observability), SRE/DevOps.
 * **Innovation:** 4 INPI patents in Predictive Logic and Computer Vision.
 
----
-
-### Current Focus
-
-I am currently transitioning my expertise toward the Open Sector and Digital Public Goods. My goal is to apply the "Enterprise Readiness" and cost-efficiency models I developed in the private sector to solve systemic challenges in climate data and urban infrastructure.
 
 ---
 
