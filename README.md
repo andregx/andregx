@@ -1,35 +1,36 @@
-# Hey, visitor!
+# Andre Borges
+**Director of Technology | Systems Architect**
 
-My name is Andre, I am an experienced Project Manager and remote software developer specialized in deploying real-time applications using **AWS**, **MongoDB** as a database and **Python** 3.10 along with Django as a software stack.
+I am a technical leader with a background in Physics and Architecture, which fundamentally shapes my approach to software. I view systems as physical entities where topology, pressure (load), and structural integrity (uptime) are the primary constraints.
 
+Over the last 15 years, I have progressed from building foundational project management tools to founding an AI-driven startup where I developed a 4-patent portfolio. Following the acquisition of my company, I was retained as Director of Technology to oversee large-scale system modernization and post-merger technical integration.
 
-# Technical background and major achievements
+---
 
-Previously, I co-founded and managed a data-driven fashion platform that used computer vision and AI to provide personalized recommendations to users. I was responsible for creating and leading teams, data schemas, managing and maintaining large databases, and ensuring high performance and availability of the system. I also led a team of data scientists and engineers, and partnered with fashion brands and retailers. My work enabled the company to grow its user base, revenue, and partnerships.
+### Engineering Philosophy & Impact
 
-## Relevant business + technical KPIs
+* **High-Concurrency Topology:** I design systems for predictable scale. I conceived and executed the architecture that handled ~1B predictions with sub-600ms latency and a 99.99% real-time SLA.
+* **The 40/40/20 Management Model:** I divide my leadership between Mentorship (professionalizing squads and engineering culture), Strategy (modular long-term ROI and architectural roadmaps), and Hands-on Innovation (prototyping complex ETL operators and algorithmic logic).
+* **FinOps as Engineering:** I treat infrastructure costs as a primary engineering metric. I am currently executing a roadmap to reduce legacy system costs by 70-80% while increasing delivery speed by 85%.
 
-* Maintained a fully deployed real-time system on AWS delivering more than 10MM recommendations per month;
-* Mean target for the system latency : 0.5s;
-* Automatic integration and data ingestion into vectorized data units using a very cheap MongoDB server, employing cache strategies to reduce the server workload and keep costs down;
-* Low maintenance system: SLA of 99.8% of uptime with no system maintenance (only maintenance required when major version was deprecated by Amazon).
+---
 
-> **Important business achievements**: reducing cloud services cost by more than 40% using smart coding strategies, simplifying microsservices and enabling structural caching where suitable so as to reduce or downscale hardware where appropriate.
+### Technical Signature
 
-## Currently working on
+* **Core:** Python, TypeScript, NestJS, AWS (S3, EC2, Lambda).
+* **Data Infrastructure:** NoSQL (MongoDB), Automated ETL, Data Normalization at scale.
+* **Reliability:** K6 (Performance Testing), Datadog (Observability), SRE/DevOps.
+* **Innovation:** 4 INPI patents in Predictive Logic and Computer Vision.
 
-* Improving coding skills using Python as a structural language and Django as a framework;
-* Developing dashboards using lean coding based on React as a framework with as little libraries as possible.
-* Using classic CSS instead of support libraries for better and leaner user experience results.
+---
 
-## Access to repositories
+### Current Focus
 
-You can request access to some of my repositories using my contacts below
+I am currently transitioning my expertise toward the Open Sector and Digital Public Goods. My goal is to apply the "Enterprise Readiness" and cost-efficiency models I developed in the private sector to solve systemic challenges in climate data and urban infrastructure.
 
-## How to reach me
+---
 
-🌐 www.polineuron.com
+### Contact & Links
 
-✉️ hello@polineuron.com
-
-🔗 https://www.linkedin.com/in/borges-andre/
+🔗 [LinkedIn](https://www.linkedin.com/in/borges-andre/)
+🌐 [Personal Site](http://www.polineuron.com)
