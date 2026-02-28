@@ -31,4 +31,6 @@ Engineering Leadership: The 40/40/20 model — Mentorship · Strategy · Hands-o
 * Innovation: 4 INPI patents in Predictive Logic and Computer Vision
 * AI: agentic drones, CI/CD revisors
 
-🔗 LinkedIn  ·  🌐 Personal Site
+## Contact me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/borges-andre/)  ·  🌐 [Personal Site](https://www.polineuron.com)
