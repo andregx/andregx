@@ -33,4 +33,4 @@ Engineering Leadership: The 40/40/20 model — Mentorship · Strategy · Hands-o
 
 ## Contact me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/borges-andre/)  ·  🌐 [Personal Site](https://www.polineuron.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/borges-andre/)  ·  🌐 [Personal Site](https://www.polineuron.com)  ·   ⬡ [Drone Swarms](https://droneswarms.io)
