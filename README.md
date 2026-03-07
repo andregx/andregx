@@ -11,6 +11,8 @@ Over 15 years, I've gone from building foundational project management tools to 
 
 ![Drone Swarms terminal demo](https://droneswarms.io/terminals.gif)
 
+Autonomous AI agent swarms that continuously scan, evaluate, and improve software systems — code quality, architecture, efficiency, and cost. Built by orchestrating secure frameworks, governed by playbook-driven safety controls. Multi-agent coordination at scale, with human oversight built in.
+
 ## What I work on
 
 * Systems Architecture: High-concurrency topologies built for predictable scale — ~1B predictions, sub-600ms latency, 99.99% real-time SLA
