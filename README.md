@@ -1,7 +1,7 @@
 # Hi, I'm Andre
 **Director of Technology | Systems Architect**
 
-I architect systems the way physicists study matter — through topology, pressure, and structural integrity.
+I architect systems the way physicists study matter: through topology, pressure, and structural integrity.
 With a background in Physics and Architecture, I approach software as a physical discipline. Load is pressure. Uptime is structural integrity. Scale is topology. This lens shapes every technical decision I make.
 Over 15 years, I've gone from building foundational project management tools to founding an AI-driven startup, developing a 4-patent portfolio, and following acquisition leading large-scale system modernization as Director of Technology.
 
