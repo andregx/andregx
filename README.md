@@ -1,7 +1,5 @@
-# Andre Borges
+# Hi, I'm Andre
 **Director of Technology | Systems Architect**
-
-## Hi, I'm Andre
 
 I architect systems the way physicists study matter — through topology, pressure, and structural integrity.
 With a background in Physics and Architecture, I approach software as a physical discipline. Load is pressure. Uptime is structural integrity. Scale is topology. This lens shapes every technical decision I make.
